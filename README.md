@@ -4,4 +4,4 @@ This is a simple Instagram-inspired static project where posts are generated dyn
 
 ## Live Demo
 
-You can see a live demo of this website ()
+You can see a live demo of this website (https://snapgram-by-webwithaman.netlify.app/)
